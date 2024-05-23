@@ -1,0 +1,27 @@
+[
+  {
+    "id": 6,
+    "image-url": "https://via.placeholder.com/600x800/FF5733/FFFFFF?text=Story+1",
+    "description": "This is the first story."
+  },
+  {
+    "id": 7,
+    "image-url": "https://via.placeholder.com/600x800/33FF57/FFFFFF?text=Story+2",
+    "description": "This is the second story."
+  },
+  {
+    "id": 8,
+    "image-url": "https://via.placeholder.com/600x800/3357FF/FFFFFF?text=Story+3",
+    "description": "This is the third story."
+  },
+  {
+    "id": 9,
+    "image-url": "https://via.placeholder.com/600x800/FF33A1/FFFFFF?text=Story+4",
+    "description": "This is the fourth story."
+  },
+  {
+    "id": 10,
+    "image-url": "https://via.placeholder.com/600x800/FF8C33/FFFFFF?text=Story+5",
+    "description": "This is the fifth story."
+  }
+]

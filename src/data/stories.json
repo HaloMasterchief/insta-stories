@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "description": "Lady with a red umbrella",
+    "imageUrl": "https://images.unsplash.com/flagged/1/apple-gear-looking-pretty.jpg?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "description": "Flowers and some fruits",
+    "imageUrl": "https://images.unsplash.com/1/bag-and-hands.jpg?q=80&w=2666&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "description": "Beautiful scenery",
+    "imageUrl": "https://images.unsplash.com/1/irish-hands.jpg?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "description": "Some kind of bird",
+    "imageUrl": "https://images.unsplash.com/1/type-away.jpg?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "description": "The attack of dragons",
+    "imageUrl": "https://images.unsplash.com/1/macbook-air-iphone-moleskin.jpg?q=80&w=2688&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://via.placeholder.com/600x800/FF5733/FFFFFF?text=Story+1",
+    "description": "This is the first story."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://via.placeholder.com/600x800/33FF57/FFFFFF?text=Story+2",
+    "description": "This is the second story."
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://via.placeholder.com/600x800/3357FF/FFFFFF?text=Story+3",
+    "description": "This is the third story."
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://via.placeholder.com/600x800/FF33A1/FFFFFF?text=Story+4",
+    "description": "This is the fourth story."
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://via.placeholder.com/600x800/FF8C33/FFFFFF?text=Story+5",
+    "description": "This is the fifth story."
+  }
+]
